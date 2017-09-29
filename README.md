@@ -1,5 +1,5 @@
 # rfc-js-destructuring-creation
-A proposal for JS destructuring creation.
+A proposal for JavaScript object destructuring creation.
 
 Given:
 
